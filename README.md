@@ -28,7 +28,7 @@ Users:
 Mental health professionals
 Crisis response organizations
 Moderators on social platforms
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/Internet_users_world_map.PNG" width="400">
+<img src="https://upload.wikimedia.org/wikipedia/commons/8/83/World_map_internet_usage_2021.svg" width="400">
 ## Data sources and AI methods
 
 Data sources:
